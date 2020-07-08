@@ -1,2 +1,1 @@
-This is start page of the
-# [rytsikau.github.io](https://rytsikau.github.io)
+# Go to [https://rytsikau.github.io](https://rytsikau.github.io)
